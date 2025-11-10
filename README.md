@@ -1,5 +1,4 @@
-# 🧭 Notion AI Agent — Smart Note & Task Creator using LangGraph + Gemini + Notion API
-
+# 🧭 Notion AI Agent — Smart Note & Task Creator
 This project is an **AI-powered Notion Assistant** built with **LangGraph**, **Gemini (Google Generative AI)**, and the **Notion API**.  
 It allows you to **create beautifully structured notes, checklists, and tables directly in Notion** — just by typing natural language prompts into a sleek React + Tailwind UI.
 
