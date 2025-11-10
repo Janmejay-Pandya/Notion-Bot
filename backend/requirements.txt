@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+notion-client
+google-genai
+langgraph
+langchain
+requests
+langchain-google-genai
+uvicorn[standard]
+mistune
